@@ -17,3 +17,8 @@ The purpose of the "testapp" is to provide a lightweight application that can be
 Once Dockerized, the "testapp" Docker image can be deployed to any Docker-compatible environment, such as local development machines, CI/CD pipelines, or Kubernetes clusters. Users can pull the Docker image from a registry or build it locally using the provided Dockerfile. Once the Docker container is running, accessing the application via a web browser will display the webpage with the server's IP address and other information.
 
 Overall, this project provides a useful tool for testing and experimenting with different deployment and orchestration solutions, while also serving as a simple example of containerizing a PHP web application with Docker.
+
+### Result
+
+![php-testapp](https://github.com/DimitryZH/docker-testapp/assets/146372946/51b28e70-3da6-4b42-b314-70adb122e45d)
+
